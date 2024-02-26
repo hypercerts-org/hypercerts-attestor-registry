@@ -1,0 +1,18 @@
+[
+  {
+    "eth_address": "0x1234567890abcdef1234567890abcdef12345678",
+    "orgs": ["gitcoin"]
+  },
+  {
+    "eth_address": "0x87679876567898765456789876545678987654567",
+    "orgs": ["gitcoin"]
+  },
+  {
+    "eth_address": "0xaf65456789876545678987654567898765456789",
+    "orgs": ["gitcoin"]
+  },
+  {
+    "eth_address": "0xa32aECda752cF4EF89956e83d60C04835d4FA867",
+    "orgs": ["gitcoin"]
+  }
+]
