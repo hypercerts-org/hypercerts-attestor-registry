@@ -1,5 +1,13 @@
 [
   {
+    "eth_address": "0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3",
+    "orgs": ["oso"]
+  },
+  {
+    "eth_address": "0xa32aECda752cF4EF89956e83d60C04835d4FA867",
+    "orgs": ["gitcoin", "oso"]
+  },
+  {
     "eth_address": "0x1234567890abcdef1234567890abcdef12345678",
     "orgs": ["gitcoin"]
   },
@@ -9,10 +17,6 @@
   },
   {
     "eth_address": "0xaf65456789876545678987654567898765456789",
-    "orgs": ["gitcoin"]
-  },
-  {
-    "eth_address": "0xa32aECda752cF4EF89956e83d60C04835d4FA867",
     "orgs": ["gitcoin"]
   }
 ]
