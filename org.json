@@ -1,5 +1,12 @@
 [
   {
+    "id": "hypercerts",
+    "name": "Hypercerts Foundation",
+    "description": "Open-source protocols for funding and rewarding positive impact.",
+    "org_url": "https://hypercerts.org/",
+    "logo_url": "https://pbs.twimg.com/profile_images/1628039263118938118/IvFh_Dr0_400x400.png"
+  },
+  {
     "id": "gitcoin",
     "name": "Gitcoin",
     "description": "Empowering communities to fund, build, & protect what matters. Home of... 💚 Gitcoin Grants Program.",
