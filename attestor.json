@@ -1,5 +1,9 @@
 [
   {
+    "eth_address": "0x676703E18b2d03Aa36d6A3124B4F58716dBf61dB",
+    "orgs": ["hypercerts"]
+  },
+  {
     "eth_address": "0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3",
     "orgs": ["oso"]
   },
