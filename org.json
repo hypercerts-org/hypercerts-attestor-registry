@@ -19,6 +19,13 @@
     "description": "Open Source Observer is a free analytics suite that helps funders measure the impact of open source software contributions to the health of their ecosystem.",
     "org_url": "https://www.opensource.observer/",
     "logo_url": "https://pbs.twimg.com/profile_images/1720451336263675904/8wDLrRmo_400x400.jpg"
+  },
+  {
+    "id": "spark",
+    "name": "Spark",
+    "description": "Building open source tools for the evaluation and certification of Impact. Our current projects are Deresy.xyz and hyperminter.xyz",
+    "org_url": "https://www.spark.eco/",
+    "logo_url": "https://pbs.twimg.com/profile_images/1710496852632588289/r5PbMBLc_400x400.jpg"
   }
   
 ]
