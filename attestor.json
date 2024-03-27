@@ -34,5 +34,10 @@
   {
     "eth_address": "0xaf65456789876545678987654567898765456789",
     "orgs": ["gitcoin"]
+  },
+  {
+    "eth_address": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+    "orgs": ["spark"]
   }
+  
 ]
