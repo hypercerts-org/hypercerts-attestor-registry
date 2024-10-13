@@ -4,7 +4,7 @@
     "name": "Hypercerts Foundation",
     "description": "Open-source protocols for funding and rewarding positive impact.",
     "org_url": "https://hypercerts.org/",
-    "logo_url": "https://pbs.twimg.com/profile_images/1628039263118938118/IvFh_Dr0_400x400.png"
+    "logo_url": "https://raw.githubusercontent.com/hypercerts-org/hypercerts-app/a69817c58b9e35a477572202f06a27c24ae68885/public/hypercerts-logo.svg"
   },
   {
     "id": "gitcoin",
