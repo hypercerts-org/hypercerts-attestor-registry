@@ -1,14 +1,10 @@
 [
   {
-    "eth_address": "0x22E4b9b003Cc7B7149CF2135dfCe2BaddC7a534f",
-    "orgs": ["oso"]
-  },
-  {
     "eth_address": "0xbEd802bfE43deDBfBcB77cbA981318f7091e985B",
     "orgs": ["hypercerts"]
   },
   {
-    "eth_address": "0x774e0fc0ded22ca78d8f55d1307a2fd38a420cbe",
+    "eth_address": "0x1C9F765C579F94f6502aCd9fc356171d85a1F8D0",
     "orgs": ["hypercerts"]
   },
   {
@@ -24,20 +20,7 @@
     "orgs": ["gitcoin", "oso"]
   },
   {
-    "eth_address": "0x1234567890abcdef1234567890abcdef12345678",
-    "orgs": ["gitcoin"]
-  },
-  {
-    "eth_address": "0x87679876567898765456789876545678987654567",
-    "orgs": ["gitcoin"]
-  },
-  {
-    "eth_address": "0xaf65456789876545678987654567898765456789",
-    "orgs": ["gitcoin"]
-  },
-  {
     "eth_address": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
     "orgs": ["spark"]
   }
-  
 ]
