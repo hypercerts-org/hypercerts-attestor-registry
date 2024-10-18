@@ -26,5 +26,9 @@
   {
     "eth_address": "0xbEd802bfE43deDBfBcB77cbA981318f7091e985B",
     "orgs": ["voicedeck"]
+  },
+  {
+    "eth_address": "0x9e976650517aAA8BFBfbD95d28DaaDF6B87C26B3",
+    "orgs": ["voicedeck"]
   }
 ]
