@@ -31,7 +31,7 @@
     "id": "voicedeck",
     "name": "VoiceDeck Foundation",
     "description": "Outcome Based Online Donations",
-    "org_url": "app.voicedeck.org/",
+    "org_url": "https://app.voicedeck.org/",
     "logo_url": "https://i.imgur.com/rC1uNAd.png"
   }
 ]
