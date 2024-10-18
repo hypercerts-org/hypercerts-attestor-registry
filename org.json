@@ -26,6 +26,12 @@
     "description": "Building open source tools for the evaluation and certification of Impact. Our current projects are Deresy.xyz and hyperminter.xyz",
     "org_url": "https://www.spark.eco/",
     "logo_url": "https://pbs.twimg.com/profile_images/1710496852632588289/r5PbMBLc_400x400.jpg"
+  },
+  {
+    "id": "voicedeck",
+    "name": "VoiceDeck Foundation",
+    "description": "Outcome Based Online Donations",
+    "org_url": "app.voicedeck.org/",
+    "logo_url": "https://i.imgur.com/rC1uNAd.png"
   }
-  
 ]
