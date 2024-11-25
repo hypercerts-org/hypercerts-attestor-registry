@@ -1,0 +1,73 @@
+name: Validate JSON
+
+on:
+  push:
+    paths:
+      - "**.json"
+  pull_request:
+    paths:
+      - "**.json"
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Create validation script
+        run: |
+          cat > validate-json.js << 'EOF'
+          const fs = require('fs');
+          const path = require('path');
+
+          // Schema for org.json
+          const orgSchema = {
+            type: 'array',
+            items: {
+              type: 'object',
+              required: ['id', 'name', 'description', 'org_url', 'logo_url'],
+              properties: {
+                id: { type: 'string' },
+                name: { type: 'string' },
+                description: { type: 'string' },
+                org_url: { 
+                  type: 'string',
+                  format: 'uri'
+                },
+                logo_url: {
+                  type: 'string',
+                  format: 'uri'
+                }
+              }
+            }
+          };
+
+          function validateJson(filePath) {
+            try {
+              const content = fs.readFileSync(filePath, 'utf8');
+              JSON.parse(content); // This will throw if JSON is invalid
+              console.log(`✅ ${filePath} is valid JSON`);
+              return true;
+            } catch (error) {
+              console.error(`❌ ${filePath} is invalid JSON:`, error.message);
+              process.exit(1);
+            }
+          }
+
+          // Find and validate all JSON files
+          const jsonFiles = fs.readdirSync('.')
+            .filter(file => file.endsWith('.json'));
+
+          jsonFiles.forEach(validateJson);
+          EOF
+
+      - name: Install validation dependencies
+        run: npm install ajv ajv-formats
+
+      - name: Validate JSON files
+        run: node validate-json.js
