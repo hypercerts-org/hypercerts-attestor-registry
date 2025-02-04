@@ -40,5 +40,19 @@
     "description": "GainForest.Earth is a decentralized science non-profit that develops equitable nature tech to inform transparent environmental decision making.",
     "org_url": "https://gainforest.earth/",
     "logo_url": "https://gainforest-images.s3.eu-west-2.amazonaws.com/gainforest-logo.png"
+  },
+  {
+    "id": "maearth",
+    "name": "Ma Earth",
+    "description": "Ma Earth is sharing ideas and building tools for planetary health and regeneration.",
+    "org_url": "https://maearth.com/",
+    "logo_url": "https://imagedelivery.net/bRzpE2_yvXyRL0k6jCSFRQ/e57749fd-ff51-47c1-b3eb-00fbc6979800/public"
+  },
+  {
+    "id": "silvi",
+    "name": "Silvi",
+    "description": "Silvi is helping a billion people plant a trillion trees.",
+    "org_url": "https://www.silvi.earth/",
+    "logo_url": "https://imagedelivery.net/bRzpE2_yvXyRL0k6jCSFRQ/b96de842-e9fb-4d05-b201-a041705dd000/public"
   }
 ]
