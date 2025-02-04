@@ -4,43 +4,11 @@
     "orgs": ["hypercerts"]
   },
   {
-    "eth_address": "0xbEd802bfE43deDBfBcB77cbA981318f7091e985B",
-    "orgs": ["hypercerts"]
-  },
-  {
-    "eth_address": "0x1C9F765C579F94f6502aCd9fc356171d85a1F8D0",
-    "orgs": ["hypercerts"]
-  },
-  {
-    "eth_address": "0x676703E18b2d03Aa36d6A3124B4F58716dBf61dB",
-    "orgs": ["hypercerts"]
-  },
-  {
-    "eth_address": "0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3",
-    "orgs": ["oso"]
-  },
-  {
-    "eth_address": "0xa32aECda752cF4EF89956e83d60C04835d4FA867",
-    "orgs": ["gitcoin", "oso"]
-  },
-  {
-    "eth_address": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
-    "orgs": ["spark"]
-  },
-  {
-    "eth_address": "0xBEa26DE685Ef828b60cA53b40Ecc9Bab35645fDF",
-    "orgs": ["voicedeck"]
-  },
-  {
-    "eth_address": "0x9e976650517aAA8BFBfbD95d28DaaDF6B87C26B3",
-    "orgs": ["voicedeck"]
-  },
-  {
-    "eth_address": "0x40713Ca5223eFb79E861E282495092D2563c1eCE",
-    "orgs": ["gainforest"]
-  },
-  {
     "eth_address": "0xEf48752C933b1050187e89A9F909De2b9e0BDCE6",
     "orgs": ["gainforest"]
+  },
+  {
+    "eth_address": "0xE9aaCeD9a50c79C10CdCBb943f0731d0e7AC6BBa",
+    "orgs": ["maearth"]
   }
 ]
