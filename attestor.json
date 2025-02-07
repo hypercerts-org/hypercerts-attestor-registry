@@ -1,14 +1,18 @@
 [
   {
-    "eth_address": "0x627D54B88b519A2915B6A5A76fA9530FD085cE26",
-    "orgs": ["hypercerts"]
-  },
-  {
     "eth_address": "0xEf48752C933b1050187e89A9F909De2b9e0BDCE6",
     "orgs": ["gainforest"]
   },
   {
+    "eth_address": "0x627D54B88b519A2915B6A5A76fA9530FD085cE26",
+    "orgs": ["hypercerts"]
+  },
+  {
     "eth_address": "0xE9aaCeD9a50c79C10CdCBb943f0731d0e7AC6BBa",
     "orgs": ["maearth"]
+  },
+  {
+    "eth_address": "0xbeAFA68EcC2Ae8bF2FA7f3B5037011dd503c063d",
+    "orgs": ["silvi"]
   }
 ]
