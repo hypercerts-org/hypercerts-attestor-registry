@@ -4,6 +4,10 @@
     "orgs": ["gainforest"]
   },
   {
+    "eth_address": "0x2aa64E6d80390F5C017F0313cB908051BE2FD35e",
+    "orgs": ["greenpill"]
+  },
+  {
     "eth_address": "0x627D54B88b519A2915B6A5A76fA9530FD085cE26",
     "orgs": ["hypercerts"]
   },
